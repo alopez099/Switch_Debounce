@@ -7,7 +7,7 @@ Switch bounce can result in failures, inaccurate readings, or erroneous triggeri
 
 
 <p align="center">
-  <img src="[README (1).md](https://github.com/alopez099/Switch_Debounce/files/10988619/README.1.md)" />
+  <img src="https://github.com/alopez099/Switch_Debounce/files/10988619/README.1.md)" />
 </p>
 
 ## Usage/Examples on GO-Board FPGA
