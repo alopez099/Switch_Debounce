@@ -5,9 +5,8 @@ A switch debouncer is a circuit used in digital electronics to remove the bounci
 
 Switch bounce can result in failures, inaccurate readings, or erroneous triggering of digital logic gates in digital circuits. This effect is removed with a switch debouncer circuit, which filters the switch output signal to create a clear and steady logic signal.
 
-
 <p align="center">
-  <img src="https://github.com/alopez099/Switch_Debounce/files/10988619/README.1.md)" />
+  <img src="https://user-images.githubusercontent.com/60726311/225563951-abb519ed-471b-4097-8249-bbd71947ab9e.png" />
 </p>
 
 ## Usage/Examples on GO-Board FPGA
